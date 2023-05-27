@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react__cuisine/static/css/main.a80d2cf0.css",
+    "main.js": "/react__cuisine/static/js/main.04aea121.js",
+    "static/media/empty-cart.webp": "/react__cuisine/static/media/empty-cart.19a6e8e28157ae3cfdca.webp",
+    "index.html": "/react__cuisine/index.html",
+    "main.a80d2cf0.css.map": "/react__cuisine/static/css/main.a80d2cf0.css.map",
+    "main.04aea121.js.map": "/react__cuisine/static/js/main.04aea121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80d2cf0.css",
+    "static/js/main.04aea121.js"
+  ]
+}
